@@ -4,7 +4,7 @@ I'm a senior software developer, working remotly from france as a freelancer.
 
 Get in touch with me on [LinkedIn][linkedin-url] or **[Hire me on Malt][malt-url]**
 
-[![Ko-Fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_red.png)][kofi-url]
+[![Ko-Fi](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)][kofi-url]
 
 ### About
 
