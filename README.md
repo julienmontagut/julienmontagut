@@ -20,8 +20,8 @@ Get in touch with me on [LinkedIn][linkedin-url] or **[Hire me on Malt][malt-url
 - 💿 PostgreSQL, MongoDB
 - 📦 Kubernetes, Docker, RabbitMQ
 - ⚙️ **Git**, Visual Studio Code, Xcode, Linux
-- 🏛 Distributed systems, Micro-services, **SOLID**, Clean code
-- 🎚 **Agile**, **TDD**, BDD, **Continuous delivery**, Scrum
+- 🏛 Distributed systems, Micro-services, SOLID, Clean code
+- 🎚 **Agile**, **TDD**, **Continuous delivery**
 
 ### Contact
 
