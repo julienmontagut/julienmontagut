@@ -9,14 +9,14 @@ Get in touch with me on [LinkedIn][linkedin-url] or **[Hire me on Malt][malt-url
 ### About
 
 - 🔭 I’m currently working as a **freelance senior developer**
-- 👯 I’m looking for **open-source collaborations** and **freelance jobs**
+- 👯 I’m looking for **open-source collaborations** and **🦀 rust development jobs**
 - 🌱 I’m currently learning **rust** out of sheer love ❤️
 - 💬 I'm speaking and working in french 🇫🇷, english 🇺🇸 and german 🇩🇪
 
 ### Skills
 
 - 🧑‍💻 C#, **Rust**, Swift, Typescript
-- 🧰 .NET, iOS, macOS, React
+- 🧰 .NET, iOS, macOS, Astro, SolidJS
 - 💿 PostgreSQL, MongoDB
 - 📦 Kubernetes, Docker, RabbitMQ
 - ⚙️ **Git**, Visual Studio Code, Xcode, Linux
