@@ -18,9 +18,8 @@ Get in touch with me on [LinkedIn][linkedin-url] or **[Hire me on Malt][malt-url
 - 🧑‍💻 C#, **Rust**, Swift, Typescript
 - 🧰 .NET, iOS, macOS, Astro, SolidJS
 - 💿 PostgreSQL, MongoDB
-- 📦 Kubernetes, Docker, RabbitMQ
-- ⚙️ **Git**, Visual Studio Code, Xcode, Linux
-- 🏛 Distributed systems, Micro-services, SOLID, Clean code
+- 🧱 Kubernetes, Docker, RabbitMQ
+- 🏛 Distributed systems, Micro-services, **SOLID**, **Clean code**
 - 🎚 **Agile**, **TDD**, **Continuous delivery**
 
 ### Contact
