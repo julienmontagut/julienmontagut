@@ -1,38 +1,49 @@
-## Hi 👋, I'm [Julien][website-url]
+# Hi 👋, I'm [Julien][website-url]
 
-I'm a senior software developer, working remotly from france as a freelancer.
+I'm a senior software developer, working remotly from France as a freelancer.
 
-Get in touch with me on [LinkedIn][linkedin-url] or **[Hire me on Malt][malt-url]**
+[![Website](https://img.shields.io/badge/website-FF5D01?style=for-the-badge&logo=astro&logoColor=white)][website-url]
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin-url]
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter-url]
+<!--
+[![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork)][polywork-url]
+-->
 
-[![Ko-Fi](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)][kofi-url]
+If you want to build stellar software [**hire me on Malt!** 🚀][malt-url]
 
-### About
+## About
 
-- 🔭 I’m currently working as a **freelance senior developer**
-- 👯 I’m looking for **open-source collaborations** and **🦀 rust development jobs**
-- 🌱 I’m currently learning **rust** out of sheer love ❤️
+- 💼 I’m currently working as a **freelance senior developer**
+- 🦀 I'm building software in **rust**
+- 🚚 I'm pationate about **continuous delivery**
+- 🧑‍🤝‍🧑 I’m looking for **open-source collaborations**
 - 💬 I'm speaking and working in french 🇫🇷, english 🇺🇸 and german 🇩🇪
 
-### Skills
+## Languages & Frameworks
 
-- 🧑‍💻 C#, **Rust**, Swift, Typescript
-- 🧰 .NET, iOS, macOS, Astro, SolidJS
-- 💿 PostgreSQL, MongoDB
-- 📦 Kubernetes, Docker, RabbitMQ
-- ⚙️ **Git**, Visual Studio Code, Xcode, Linux
-- 🏛 Distributed systems, Micro-services, SOLID, Clean code
-- 🎚 **Agile**, **TDD**, **Continuous delivery**
+![Languages](https://skillicons.dev/icons?i=rust,swift,ts,wasm,astro,solidjs,tailwind,md)
 
-### Contact
+## Cloud & Infrastructure
 
-[![Website](https://img.shields.io/badge/website-CC0000?style=for-the-badge&logo=jekyll)][website-url]
-[![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork)][polywork-url]
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)][linkedin-url]
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter-url]
+![Cloud](https://skillicons.dev/icons?i=kubernetes,kafka,postgres,cassandra,redis,prometheus,grafana,jaeger)
 
-[website-url]: <https://julienmontagut.com>
+## Tools
+
+![Tools](https://skillicons.dev/icons?i=vscode,figma,git,github,githubactions)
+
+<!--
+🏛 Distributed systems, Micro-services, SOLID, Clean code
+🎚 **Agile**, **TDD**, **Continuous delivery**
+-->
+
+## You like my work?
+
+You can support me on [**Ko-fi**][kofi-url] or star yout [**favorite repositories!**][github-repo-url]
+
+[github-repo-url]: <https://github.com/julienmontagut?tab=repositories>
 [kofi-url]: <https://ko-fi.com/julienmontagut>
 [linkedin-url]: <https://www.linkedin.com/in/julienmontagut>
 [malt-url]: <https://www.malt.fr/profile/julienmontagut>
 [polywork-url]: <https://polywork.com/julienmontagut>
 [twitter-url]: <https://twitter.com/julienmontagut>
+[website-url]: <https://julienmontagut.com>
