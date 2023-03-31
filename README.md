@@ -1,6 +1,6 @@
 # Hi 👋, I'm [Julien][website-url]
 
-I'm a senior software developer, working remotly from France as a freelancer. If you want to build stellar software [**hire me on Malt!** 🚀][malt-url]
+I'm a senior software developer, working remotly from France as a freelancer. If you want to build stellar software [**hire me!** 🚀][malt-url]
 
 [![Website](https://img.shields.io/badge/website-FF5D01?style=for-the-badge&logo=astro&logoColor=white)][website-url]
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin-url]
