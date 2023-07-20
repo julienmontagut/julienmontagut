@@ -1,6 +1,6 @@
 # Hi 👋, I'm [Julien][website-url]
 
-I'm a senior software developer, working remotly from France as a freelancer. If you want to build stellar software [**hire me!** 🚀][malt-url]
+I'm a Tech Lead & Software Engineer, working remotly from France as a freelancer. If you want to build stellar software [**hire me!** 🚀][malt-url]
 
 [![Website](https://img.shields.io/badge/website-FF5D01?style=for-the-badge&logo=astro&logoColor=white)][website-url]
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin-url]
@@ -16,15 +16,11 @@ I'm a senior software developer, working remotly from France as a freelancer. If
 
 ### Languages & Frameworks
 
-![Languages](https://skillicons.dev/icons?i=rust,wasm,ts,astro,solidjs,swift)
+![Languages](https://skillicons.dev/icons?i=rust,swift,ts,wasm,ts,astro,solidjs)
 
-### Cloud & Infrastructure
+### Infrastructure
 
-![Cloud](https://skillicons.dev/icons?i=kubernetes,kafka,redis,cassandra,postgres)
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=github,githubactions,vscode,docker)
+![Cloud](https://skillicons.dev/icons?i=github,githubactions,sentry,postgres,redis,kafka,cassandra,kubernetes)
 
 ### You like my work?
 
