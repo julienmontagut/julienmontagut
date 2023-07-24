@@ -16,11 +16,11 @@ I'm a Tech Lead & Software Engineer, working remotly from France as a freelancer
 
 ### Languages & Frameworks
 
-![Languages](https://skillicons.dev/icons?i=rust,swift,ts,wasm,ts,astro,solidjs)
+![Languages](https://skillicons.dev/icons?i=rust,swift,ts,wasm,astro,solidjs)
 
-### Infrastructure
+### Tools & Infrastructure
 
-![Cloud](https://skillicons.dev/icons?i=github,githubactions,sentry,postgres,redis,kafka,cassandra,kubernetes)
+![Cloud](https://skillicons.dev/icons?i=github,githubactions,sentry,postgres,redis,kafka,kubernetes)
 
 ### You like my work?
 
