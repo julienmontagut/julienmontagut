@@ -1,6 +1,6 @@
 # Hi 👋, I'm [Julien][website-url]
 
-I'm a Tech Lead & Software Engineer, working remotly from France as a freelancer. If you want to build stellar software **contact me!** 🚀
+I'm a Lead Software Engineer, working remotly from France as a freelancer. If you want to build stellar software **contact me!** 🚀
 
 [![Website](https://img.shields.io/badge/website-FF5D01?style=for-the-badge&logo=astro&logoColor=white)][website-url]
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin-url]
@@ -10,16 +10,17 @@ I'm a Tech Lead & Software Engineer, working remotly from France as a freelancer
 ## About
 
 - 💼 I’m currently working as a **freelance software developer**
-- 🦀 I'm building software in **rust**
-- 🚚 I'm pationate about **continuous delivery**
+- 👨‍💻 I'm building software in **rust**, **swift** or **c#**
+- 🚚 I'm pationate about **continuous delivery**, **TDD**
 - 💬 I'm speaking and working in french 🇫🇷, english 🇺🇸 and german 🇩🇪
 
 ### Languages & Frameworks
 
-![Languages](https://skillicons.dev/icons?i=rust,swift,ts,wasm,astro,solidjs)
+![Languages](https://skillicons.dev/icons?i=rust,csharp,js,actix,dotnet,htmx,wasm,astro,solidjs)
 
 ### Tools & Infrastructure
 
+![Tools](https://skillicons.dev/icons?i=neovim,rider,webstorm,docker,apple,linux)
 ![Cloud](https://skillicons.dev/icons?i=github,githubactions,sentry,postgres,redis,kafka,kubernetes)
 
 ### You like my work?
