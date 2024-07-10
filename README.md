@@ -16,11 +16,12 @@ I'm a Lead Software Engineer, working remotly from France as a freelancer. If yo
 
 ### Languages & Frameworks
 
-![Languages](https://skillicons.dev/icons?i=rust,csharp,js,actix,dotnet,htmx,wasm,astro,solidjs)
+![Languages](https://skillicons.dev/icons?i=rust,swift,cs,js,lua,actix,dotnet,htmx,wasm,astro,solidjs,tailwind)
 
 ### Tools & Infrastructure
 
 ![Tools](https://skillicons.dev/icons?i=neovim,rider,webstorm,docker,apple,linux)
+
 ![Cloud](https://skillicons.dev/icons?i=github,githubactions,sentry,postgres,redis,kafka,kubernetes)
 
 ### You like my work?
