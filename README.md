@@ -4,31 +4,25 @@ I'm a Lead Software Engineer, working remotly from France as a freelancer. If yo
 
 [![Website](https://img.shields.io/badge/website-FF5D01?style=for-the-badge&logo=astro&logoColor=white)][website-url]
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin-url]
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter-url]
-[![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork)][polywork-url]
+[![Bluesky](https://img.shields.io/badge/bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=white)][bluesky-url]
 
 ## About
+
+![Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=julienmontagut&show_icons=true&theme=swift)
+![Julien's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julienmontagut&layout=compact&theme=swift)
 
 - 💼 I’m currently working as a **freelance software developer**
 - 👨‍💻 I'm building software in **rust**, **swift** or **c#**
 - 🚚 I'm pationate about **continuous delivery**, **TDD**
 - 💬 I'm speaking and working in french 🇫🇷, english 🇺🇸 and german 🇩🇪
 
-### Languages & Frameworks
+### Technologies
 
-![Languages](https://skillicons.dev/icons?i=rust,swift,cs,js,lua,actix,dotnet,htmx,wasm,astro,solidjs,tailwind)
-
-### Tools & Infrastructure
-
-![Tools](https://skillicons.dev/icons?i=neovim,rider,webstorm,docker,apple,linux)
-
-![Cloud](https://skillicons.dev/icons?i=github,githubactions,sentry,postgres,redis,kafka,kubernetes)
-
-### You like my work?
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G6FFWQ7)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=rust,swift,lua,bash,wasm,astro,tailwind,nix,vim,neovim" />
+    <img src="https://skillicons.dev/icons?i=github,sentry,postgres,redis,kafka,kubernetes" />
+</div>
 
 [linkedin-url]: <https://www.linkedin.com/in/julienmontagut>
-[polywork-url]: <https://polywork.com/julienmontagut>
-[twitter-url]: <https://twitter.com/julienmontagut>
+[bluesky-url]: <https://bsky.app/profile/julienmontagut.bsky.social>
 [website-url]: <https://julienmontagut.com>
