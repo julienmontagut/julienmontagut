@@ -15,7 +15,7 @@ I'm a Lead Software Engineer, working remotly from France as a freelancer. If yo
 ## About
 
 - 💼 I’m currently working as a **freelance software developer**
-- 👨‍💻 I'm building software in **rust**, **swift** or **c#**
+- 💗 I love to write software in **rust**, to work in the **terminal** and **crafting**
 - 🚚 I'm pationate about **continuous delivery**, **TDD**
 - 💬 I'm speaking and working in french 🇫🇷, english 🇺🇸 and german 🇩🇪
 
@@ -28,7 +28,7 @@ I'm a Lead Software Engineer, working remotly from France as a freelancer. If yo
 
 ---
 
-![Skill icons](https://skillicons.dev/icons?i=rust,swift,nix,neovim,github,sentry,postgres,redis,kafka,kubernetes)
+![Skill icons](https://skillicons.dev/icons?i=rust,nix,neovim,github,postgres,kafka)
     
 </div>
 
