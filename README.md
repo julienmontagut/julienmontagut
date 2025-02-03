@@ -28,7 +28,7 @@ I'm a Lead Software Developer, working from France as a freelancer 🚀
 
 ---
 
-![Skill icons](https://skillicons.dev/icons?i=rust,nix,neovim,github,postgres,kafka)
+![Skill icons](https://skillicons.dev/icons?i=rust,actix,neovim,nix,bash,linux,apple)
     
 </div>
 
