@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm [Julien][website-url]
 
-I'm a Lead Software Engineer, working remotly from France as a freelancer. If you want to build stellar software **contact me!** 🚀
+I'm a Lead Software Developer, working from France as a freelancer 🚀
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge)][website-url]
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge)][linkedin-url]
@@ -14,8 +14,8 @@ I'm a Lead Software Engineer, working remotly from France as a freelancer. If yo
 
 ## About
 
-- 💼 I’m currently working as a **freelance software developer**
-- 💗 I love to write software in **rust**, to work in the **terminal** and **crafting**
+- 💼 I’m currently working as a **freelance lead developer**
+- 💗 I love to write software in **rust**, to work in the **terminal** and **craft**
 - 🚚 I'm pationate about **continuous delivery**, **TDD**
 - 💬 I'm speaking and working in french 🇫🇷, english 🇺🇸 and german 🇩🇪
 
@@ -32,6 +32,6 @@ I'm a Lead Software Engineer, working remotly from France as a freelancer. If yo
     
 </div>
 
+[website-url]: <https://julienmontagut.com>
 [linkedin-url]: <https://www.linkedin.com/in/julienmontagut>
 [bluesky-url]: <https://bsky.app/profile/julienmontagut.bsky.social>
-[website-url]: <https://julienmontagut.com>
