@@ -20,7 +20,9 @@ I'm a Lead Software Developer, working from France as a freelancer 🚀
 <br/>
 
 <div align="center">
+
 ![Skill icons](https://skillicons.dev/icons?i=dotnet,htmx,alpinejs,tailwind,kubernetes,kafka,postgresql,grafana,rust,nix,md)
+
 </div>
 
 [website-url]: <https://julienmontagut.com>
