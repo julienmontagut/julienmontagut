@@ -8,8 +8,6 @@ I'm a Lead Software Developer, working from France as a freelancer 🚀
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge)][linkedin-url]
 [![Bluesky](https://img.shields.io/badge/bluesky-1185FE?style=for-the-badge)][bluesky-url]
 
-
-
 </div>
 
 ## About
@@ -19,12 +17,10 @@ I'm a Lead Software Developer, working from France as a freelancer 🚀
 - 🚚 I'm pationate about **continuous delivery**, **TDD**
 - 💬 I'm speaking and working in french 🇫🇷, english 🇺🇸 and german 🇩🇪
 
----
+<br/>
 
 <div align="center">
-
 ![Skill icons](https://skillicons.dev/icons?i=dotnet,htmx,alpinejs,tailwind,kubernetes,kafka,postgresql,grafana,rust,nix,md)
-    
 </div>
 
 [website-url]: <https://julienmontagut.com>
