@@ -23,11 +23,6 @@ I'm a Lead Software Developer, working from France as a freelancer 🚀
 
 <div align="center">
 
-![Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=julienmontagut&show_icons=true&line_height=20&theme=swift&custom_title=GitHub%20Stats)
-![Julien's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julienmontagut&layout=compact&theme=swift)
-
----
-
 ![Skill icons](https://skillicons.dev/icons?i=dotnet,htmx,alpinejs,tailwind,kubernetes,kafka,postgresql,grafana,rust,nix,md)
     
 </div>
