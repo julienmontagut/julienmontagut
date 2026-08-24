@@ -28,3 +28,7 @@ I'm a Lead Software Developer, working from France as a freelancer 🚀
 [website-url]: <https://julienmontagut.com>
 [linkedin-url]: <https://www.linkedin.com/in/julienmontagut>
 [bluesky-url]: <https://bsky.app/profile/julienmontagut.bsky.social>
+
+---
+
+Dedicated to the public domain under [CC0 1.0](LICENSE).
